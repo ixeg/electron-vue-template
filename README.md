@@ -1,8 +1,10 @@
 <div align="center">
 
-# Electron Vue Template
+# Pdf to Excel
 
 ## About
+
+Using the template from https://github.com/Deluze/electron-vue-template
 
 This template utilizes [ViteJS](https://vitejs.dev) for building and serving your (Vue powered) front-end process, it provides Hot Reloads (HMR) to make development fast and easy ⚡
 
